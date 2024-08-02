@@ -1,3 +1,6 @@
+# Level 0
+`ssh bandit.labs.overthewire.org -p 2220 -l bandit0` is used to login
+
 # Level 1
 ![image](https://github.com/user-attachments/assets/731a18ae-9b31-4167-9bf2-ec989f6e73e5)
 Password is **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If**
@@ -23,6 +26,7 @@ Password is **4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
 
 # Level 6
 
+password is **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
 
 
 
