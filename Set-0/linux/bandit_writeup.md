@@ -30,7 +30,7 @@ password is **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
 Since the task said that the The password is stored **somewhere on the server**, I changed  <br>
 `find . -type f -size 33c -user bandit7 -group bandit6`  to  `find . -size 33c -user bandit7 -group bandit6` so that the search is not restricted to files only.<br>
 ![Screenshot from 2024-08-03 10-05-15](https://github.com/user-attachments/assets/23162926-5d28-4bae-91a7-ae40c95b473c) <br>
-After knowing what 'somewhere on the server' actually meant, I tried `find / -size 33c -user bandit7 -group bandit6` to start the search from the root directory but this gave me a really long list of permission denied errors (along with the filename). Finally I found the password using `find / -user bandit7 -group bandit6 -size 33c 2>/dev/null` which redirected the error messages and returned only the output file
+After knowing what 'somewhere on the server' actually meant, I tried `find / -size 33c -user bandit7 -group bandit6` to start searching from the root directory but this gave me a really long list of permission denied errors (along with the filename). Finally I found the password using `find / -user bandit7 -group bandit6 -size 33c 2>/dev/null` which redirected the error messages and returned only the output file
 ![image](https://github.com/user-attachments/assets/79f00620-d944-4f78-a47a-62b130c62a13)
 password is **morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj**
 
