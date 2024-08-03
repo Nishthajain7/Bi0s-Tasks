@@ -18,7 +18,7 @@ Password is **MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx**
 Password is **2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ**
 
 # Level 4
-After having learnt that the The `file *` command determines the type of every file, I used it but just like at level 2, the file names here also started with a dash so the command is going to be slightly different
+After having learnt that the The `file *` command determines the type of every file, I used it but just like at level 1, the file names here also started with a dash so the command is going to be slightly different
 ![level 5](https://github.com/user-attachments/assets/d89bcf5a-28c7-483c-9730-fdd049c93fb1)
 Password is **4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
 
