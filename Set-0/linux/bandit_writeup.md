@@ -34,6 +34,24 @@ After knowing what 'somewhere on the server' actually meant, I tried `find / -si
 ![image](https://github.com/user-attachments/assets/79f00620-d944-4f78-a47a-62b130c62a13)
 password is **morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj**
 
+# Level 7
+Came across the term 'grep' while working on Level 5 and was confused between find and grep. But now the difference is clear
+![image](https://github.com/user-attachments/assets/d402f7f8-fc06-41d4-8c3b-5a2a4c2605cc)
+Password is dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+# Level 8
+We first sort the data, because uniq only works on consecutive duplicate lines.<br>
+Used command `sort data.txt | uniq -u`
+Password is **4CKMh1JI91bUIZZPXDqGanal4xvAg0JM**
+
+# Level 9
+![image](https://github.com/user-attachments/assets/b44a00c0-0eb7-4d82-a75f-46db9e4a160f)
+The password is **FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey**
+
+# Level 10
+![image](https://github.com/user-attachments/assets/ceba9191-b80e-44d4-9986-a9542cd278ba)
+Password is dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+
 
 
 
