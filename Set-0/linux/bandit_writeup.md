@@ -45,6 +45,7 @@ Used command `sort data.txt | uniq -u`
 Password is **4CKMh1JI91bUIZZPXDqGanal4xvAg0JM**
 
 # Level 9
+The `strings` command extracts printable strings from the files
 ![image](https://github.com/user-attachments/assets/b44a00c0-0eb7-4d82-a75f-46db9e4a160f)
 The password is **FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey**
 
