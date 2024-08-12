@@ -45,12 +45,21 @@ Used command `sort data.txt | uniq -u`
 Password is **4CKMh1JI91bUIZZPXDqGanal4xvAg0JM**
 
 # Level 9
+The `strings` command extracts printable strings from the files
 ![image](https://github.com/user-attachments/assets/b44a00c0-0eb7-4d82-a75f-46db9e4a160f)
 The password is **FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey**
 
 # Level 10
 ![image](https://github.com/user-attachments/assets/ceba9191-b80e-44d4-9986-a9542cd278ba)
-Password is dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+Password is **dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr**
+
+# Level 11
+The password is encrypted using a Caesar cipher
+'tr' is used to translate characters
+![image](https://github.com/user-attachments/assets/5b8b165d-8cac-4208-afa4-74b526a2618f)
+The password is **7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4**
+
+# Level 12
 
 
 
